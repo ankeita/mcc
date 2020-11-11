@@ -1,0 +1,1 @@
+export const LOAD_AVATAR_IMAGE="LOAD_AVATAR_IMAGE";
